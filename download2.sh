@@ -13,4 +13,4 @@ chmod +x usymtool
 chmod +x usymtoolarm64
 fi
 
-echo "下载并解压完成"
+echo "done"
