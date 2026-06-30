@@ -13,4 +13,4 @@ chmod +x usymtool
 chmod +x usymtoolarm64
 fi
 
-echo "done"
+echo "setup done"
